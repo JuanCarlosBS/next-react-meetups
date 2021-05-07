@@ -1,0 +1,1 @@
+import MeetupList from '../components/meetups/MeetupList';
